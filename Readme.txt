@@ -1,0 +1,1 @@
+open Final App folder and run the exe file Thank Me later
